@@ -1,3 +1,4 @@
+<!-- Proudly Created by Inanta Martsanto -->
 <template>
   <div class="flex font-body h-full p-4 text-secondary">
     <div class="w-full">
