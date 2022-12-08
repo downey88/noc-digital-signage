@@ -11,3 +11,5 @@ cp -R dist/fonts/ /var/www/html/
 cp -R dist/img/ /var/www/html/
 cp -R dist/js/ /var/www/html/
 
+# sudo docker build -t :$BUILD_NUMBER . && sudo docker build -t :latest .
+# sudo docker push :$BUILD_NUMBER && sudo docker push :latest
